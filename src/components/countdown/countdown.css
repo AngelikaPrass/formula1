@@ -1,0 +1,11 @@
+.countdown-wrapper {
+    margin: 0 auto;
+    width: 30em;
+}
+
+.show-counter {
+    background-color: #61dafb;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
